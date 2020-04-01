@@ -1,2 +1,2 @@
-# -EffectiveDevOpsTemplates
+# EffectiveDevOpsTemplates
 Effective AWS 
